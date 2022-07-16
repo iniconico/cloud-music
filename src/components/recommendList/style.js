@@ -27,7 +27,8 @@ export const ListItem = styled.div`
       position: absolute;
       top: 0;
       width: 100%;
-      height: 35px;
+      height: 0;
+      padding-bottom: 100%;
       border-radius: 3px;
       background: linear-gradient (hsla (0,0%,43%,.4),hsla (0,0%,100%,0));
     }
